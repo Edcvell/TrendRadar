@@ -1,6 +1,19 @@
 游戏
 game
 
+英雄联盟
+LOL
+LPL
+LCK
+
+RockStar
+GTA
+Grand Theft Auto
+
+FromSoftware
+Soulslike
+类魂
+
 索尼
 Sony
 PlayStation
