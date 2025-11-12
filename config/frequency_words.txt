@@ -70,6 +70,7 @@ AMD
 
 ai
 !gai
+!email
 人工智能
 
 chatgpt
