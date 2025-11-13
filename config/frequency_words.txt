@@ -25,11 +25,6 @@ Nintendo
 
 Steam
 
-字节
-ByteDance
-张一鸣
-TikTok
-
 苹果
 iPhone
 iPad
@@ -60,35 +55,8 @@ Microsoft
 亚马逊
 Amazon
 
-英伟达
-NVIDIA
-黄仁勋
-
-AMD
-
-ai
-!gai
-!email
-人工智能
-
-chatgpt
-openai
-sora
-
-claude
-Anthropic
-
-DeepSeek
-梁文锋
-
 大疆
 DJI
-
-自动驾驶
-智能驾驶
-辅助驾驶
-
-机器人
 
 科技
 
